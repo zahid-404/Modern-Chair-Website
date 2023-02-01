@@ -1,5 +1,5 @@
 
-# Demo Portfolio
+# Modern Chair Page
 
 I created a chair purchase website page using html and css.
 it have beautiful animations and transitions upon selecting colors.
