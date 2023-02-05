@@ -1,7 +1,7 @@
 
 # Modern Chair Page
 
-I created a chair purchase website page using html and css.
+I created a chair purchase website page using HTML and CSS.
 it have beautiful animations and transitions upon selecting colors.
 
 
